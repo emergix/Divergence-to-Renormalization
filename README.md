@@ -2,6 +2,10 @@
 
 This document, titled **"Unifying Divergences Across Domains: From Physics to Learning and Finance"** by Olivier Croissant, presents a profound and mathematically rigorous exploration of how divergence functions—such as relative entropy and Bregman divergences—form a unifying thread across physics, machine learning, and financial mathematics.
 
+## Link to Full PDF
+You can access the full document here:
+[Divergence_based.pdf](./pdf/Divergence_based.pdf)
+
 ## Summary
 
 The report is structured into four main chapters and multiple technical appendices:
@@ -33,6 +37,4 @@ The appendices detail the mathematical structure of divergences:
 ## References
 The paper synthesizes cutting-edge research, citing works such as Cotler-Rezchikov (2022), Deep Hedging by Buehler et al. (2019), and seminal sources in Malliavin calculus and diffusion models.
 
-## Link to Full PDF
-You can access the full document here:
-[Divergence_based.pdf](./pdf/Divergence_based.pdf)
+
